@@ -6,7 +6,7 @@
 
 ###
 <p align="center">
-    <a href="http://aashisjha.com.np" target="_blank">
+    <a href="https://github.com/shikhil7376/shikhil7376" target="_blank">
         <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
     </a>
 </p>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20WEB%2020DEVELOPER;PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
